@@ -22,11 +22,6 @@ Discussion of the details of rust as a language are well beyond the scope of thi
 
 Rust is a language built with concurrency and parallelism in mind. The base language offers a number of key features that we can seamlessly incorporate into Silica. Parallelism is absolutely key to any highly performant RTL and so having a familiar and well supported set of features already available is incredibly helpful for Silica to produce performant code
 
-## Authors
-
-* **Chris Smithers**
-* **You?**
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
